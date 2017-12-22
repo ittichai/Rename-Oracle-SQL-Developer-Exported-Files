@@ -5,7 +5,7 @@ Script to rename exported BLOB files from Oracle SQL Developer tool
 
 Prerequisite: Python 3.x 
 
-Execution Steps:
+Execution Steps:<br>
 (1) Copy the script to the folder containing mapping file - "FND_LOBS_DATA_TABLE.ldr" and all exported files.
 (2) Execute the script as follows
      C:\&amp;gt; cd deploy
