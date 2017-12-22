@@ -12,4 +12,4 @@ Execution Steps:
   * C:\> rename.py FND_LOBS_DATA_TABLE.ldr<br>
 
 
- 
+See [wiki](wiki) for more detail.
